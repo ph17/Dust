@@ -6,9 +6,9 @@ This is a fork of [obsidian-atom](https://github.com/kognise/obsidian-atom) with
 
 ![Screenshot](Screenshot_4.png)
 
-![Screenshot](Screenshot_2.png)
+![Screenshot](Screenshot_5.png)
 
-![Screenshot](Screenshot_3.png)
+![Screenshot](Screenshot_6.png)
 
 _<p align="center"> [Vault](https://github.com/chhoumann/DemoVault) with Dataview and Calendar plugins </p>_
 
