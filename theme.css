@@ -58,8 +58,8 @@
 
 body {
   -webkit-font-smoothing: auto;
-  --darker-graph-line: hsl(var(--accent-h), var(--accent-s), 30%);
-  --graph-line: var(--darker-graph-line);
+   --brighter-graph-line: hsl(var(--accent-h), var(--accent-s), 65%);
+  --graph-line: var(--brighter-graph-line);
 
   --text-accent-h: calc(var(--accent-h) - 12);
   --text-accent-s: calc(var(--accent-s) + 26%);
