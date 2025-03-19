@@ -1,8 +1,10 @@
-# Atomus
+# Dust
 
-A theme based on the late Atom Editor.
+A modern theme for Obsidian.
 
 This is a fork of [obsidian-atom](https://github.com/kognise/obsidian-atom) with some changes based on my opinion.
+
+![Screenshot](Screenshot_4.png)
 
 ![Screenshot](Screenshot_2.png)
 
@@ -15,7 +17,9 @@ _<p align="center"> [Vault](https://github.com/chhoumann/DemoVault) with Datavie
 - The codeblock theme is based on [Dracula](https://github.com/dracula/dracula-theme).
 - New default accent color.
 - Accent color can be changed.
-- Graph View lines match the accent color but they're slightly darker.
+- New folder icon
+- Google Material Icon for files
+- Graph View lines match the accent color but they're slightly brighter.
 - More discrete status bar.
 - [Full Calendar Plugin](https://github.com/davish/obsidian-full-calendar) support (the events **will** match your accent color).
 - And some other minor changes...
