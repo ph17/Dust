@@ -10,8 +10,11 @@ This is a fork of [obsidian-atom](https://github.com/kognise/obsidian-atom) with
 
 _<p align="center"> [Vault](https://github.com/chhoumann/DemoVault) with Dataview and Calendar plugins </p>_
 
-![Screenshot](Screenshot_4.png)
-_<p align="center"> Header colors </p>_
+## Header Colors
+
+<p align="left">
+  <img src="Screenshot_4.png" width="600px">
+</p>
 
 ---
 
