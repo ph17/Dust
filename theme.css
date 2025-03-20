@@ -721,12 +721,17 @@ body
 
 /* Javascript */
 .tree-item-self.nav-file-title[data-path$=".js"]::before {
-    content: "javascript"; /* Represents a moon (Lua) */
+    content: "javascript";
 }
 
 /* PHP */
 .tree-item-self.nav-file-title[data-path$=".php"]::before {
-    content: "php"; /* Represents a moon (Lua) */
+    content: "php";
+}
+
+/* PHP */
+.tree-item-self.nav-file-title[data-path$=".rb"]::before {
+    content: "diamond";
 }
 
 /* JSON, XML, YAML, and TOML*/
@@ -804,7 +809,6 @@ body
 .tree-item-self.nav-file-title[data-path$=".jsx"]::before,
 .tree-item-self.nav-file-title[data-path$=".tsx"]::before,
 .tree-item-self.nav-file-title[data-path$=".php"]::before,
-.tree-item-self.nav-file-title[data-path$=".rb"]::before,
 .tree-item-self.nav-file-title[data-path$=".swift"]::before,
 .tree-item-self.nav-file-title[data-path$=".go"]::before,
 .tree-item-self.nav-file-title[data-path$=".rs"]::before,
@@ -833,3 +837,14 @@ body
     content: "image"; /* Represents image files */
 }
 
+/* Audio Files */
+.tree-item-self.nav-file-title[data-path$=".mp3"]::before,
+.tree-item-self.nav-file-title[data-path$=".wav"]::before,
+.tree-item-self.nav-file-title[data-path$=".ogg"]::before,
+.tree-item-self.nav-file-title[data-path$=".flac"]::before,
+.tree-item-self.nav-file-title[data-path$=".aac"]::before,
+.tree-item-self.nav-file-title[data-path$=".m4a"]::before,
+.tree-item-self.nav-file-title[data-path$=".wma"]::before,
+.tree-item-self.nav-file-title[data-path$=".aiff"]::before {
+    content: "audiotrack"; /* Represents audio files */
+}
