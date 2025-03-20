@@ -4,13 +4,14 @@ A modern theme for Obsidian.
 
 This is a fork of [obsidian-atom](https://github.com/kognise/obsidian-atom) with some changes based on my opinion.
 
-![Screenshot](Screenshot_4.png)
-
 ![Screenshot](Screenshot_5.png)
 
 ![Screenshot](Screenshot_6.png)
 
 _<p align="center"> [Vault](https://github.com/chhoumann/DemoVault) with Dataview and Calendar plugins </p>_
+
+![Screenshot](Screenshot_4.png)
+_<p align="center"> Header colors </p>_
 
 ---
 
